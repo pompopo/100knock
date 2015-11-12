@@ -1,0 +1,10 @@
+in_file_path = Path.dirname(__ENV__.file) <> "/hightemp.txt"
+{ :ok, file } = File.read in_file_path
+
+{count, _} = Integer.parse(hd System.argv)
+
+IO.puts String.split(file, "\n", trim: true) |> (Enum.reverse)
+                                             |> (Enum.take count)
+                                             |> (Enum.reverse)
+                                             |> Enum.join "\n"
+File.close file
