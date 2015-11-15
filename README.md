@@ -1,1 +1,10 @@
-http://www.cl.ecei.tohoku.ac.jp/nlp100/
+オォ～Elixir～Elixir～
+
+:cloud::cloud:　:cloud:　　:cloud::cloud: 
+
+ 　　　　((Prolog)) 
+
+ :palm_tree::palm_tree::palm_tree:　​:dancer:　　​:palm_tree::palm_tree::palm_tree: 
+ 
+￣￣￣￣￣￣￣￣￣￣￣￣
+
